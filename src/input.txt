@@ -1,0 +1,5 @@
+abc   3.4
+xyz   2.5
+ddp   4.0
+dug   3.7
+xug   3.2
